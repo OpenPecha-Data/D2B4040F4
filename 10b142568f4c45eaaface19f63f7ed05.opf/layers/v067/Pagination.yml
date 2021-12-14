@@ -8,133 +8,132 @@ annotations:
     span:
       start: 0
       end: 785
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   91d6326185114efd9826a27563e63378:
     imgnum: 528
     reference: ''
     span:
       start: 788
       end: 1956
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   918bc3aefcf54c6d97adb20d9560b8f7:
     imgnum: 529
     reference: ''
     span:
       start: 1959
       end: 3312
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   eee5ad71b6324d1d997298409809df43:
     imgnum: 530
     reference: ''
     span:
       start: 3315
       end: 4664
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   f862281e653e4d6290cd8dffbed1bccb:
     imgnum: 531
     reference: ''
     span:
       start: 4667
       end: 5992
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   a6a028ddbe994a3fbd5f1c0c91bb3462:
     imgnum: 532
     reference: ''
     span:
       start: 5995
       end: 7264
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   0ba6ecfc26064686bc049049cdb66336:
     imgnum: 533
     reference: ''
     span:
       start: 7267
       end: 8592
-    note_ref: cc0a8ad4a19141818424c3cfd78d6153
+    note_ref: 944bf295c97f4dcb8160a217513f5eb7
   ccdc99ce02ca4f94af586e05424b58af:
     imgnum: 534
     reference: ''
     span:
       start: 8595
       end: 9892
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   d90f77ef4663482a9808de563377dc98:
     imgnum: 535
     reference: ''
     span:
       start: 9895
       end: 11226
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   2fe15474f3b347b89d14c1b9e7dd3ad0:
     imgnum: 536
     reference: ''
     span:
       start: 11229
       end: 12553
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   2f61c8eacf9645b6bc9541d5da891446:
     imgnum: 537
     reference: ''
     span:
       start: 12556
       end: 13817
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   38badbac85d94a4ebd0c13d5f1232e3e:
     imgnum: 538
     reference: ''
     span:
       start: 13820
       end: 15155
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   ed4e40bb14514464bde6965f711dc9b2:
     imgnum: 539
     reference: ''
     span:
       start: 15158
       end: 16491
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   b324ca32a3d54786bbf631d1ab48ca94:
     imgnum: 540
     reference: ''
     span:
       start: 16494
       end: 17842
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   033ec18ad9c84106a673ce2ef5664fad:
     imgnum: 541
     reference: ''
     span:
       start: 17845
       end: 19158
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   6756e8803d224fb5b34886381ac71e1c:
     imgnum: 542
     reference: ''
     span:
       start: 19161
       end: 20398
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   78efe08fc25d4301b9007c892d85319a:
     imgnum: 543
     reference: ''
     span:
       start: 20401
       end: 21686
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   944bf295c97f4dcb8160a217513f5eb7:
     imgnum: 544
     reference: ''
     span:
       start: 21689
       end: 23182
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
+    note_ref: cc0a8ad4a19141818424c3cfd78d6153
   cc0a8ad4a19141818424c3cfd78d6153:
     imgnum: 545
     reference: ''
     span:
       start: 23185
       end: 24892
-    note_ref: 83c0a57d0688412d93a9db4c0321dea3
   83c0a57d0688412d93a9db4c0321dea3:
     imgnum: 546
     reference: ''
