@@ -133,13 +133,13 @@ annotations:
     reference: ''
     span:
       start: 23099
-      end: 24758
+      end: 24774
   83c0a57d0688412d93a9db4c0321dea3:
     imgnum: 546
     reference: ''
     span:
-      start: 24760
-      end: 24795
+      start: 24776
+      end: 24811
   0e6a3343f4ce477d86955d1246899dc1:
     imgnum: 547
     reference: ''
